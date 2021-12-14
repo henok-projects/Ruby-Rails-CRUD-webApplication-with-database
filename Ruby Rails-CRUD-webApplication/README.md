@@ -1,7 +1,4 @@
 # README
-# name henok addis
+crud app with ruby-rails
 #college of AAIT/ITSC(4th year software engneering student )
 
-#section-2
-
-#id: Atr/6271/09
